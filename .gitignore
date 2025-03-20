@@ -1,0 +1,36 @@
+# Ignore all compiled class files
+*.class
+*.md
+
+# Ignore build directories (commonly used by IDEs)
+bin/
+build/
+
+# Ignore Maven target directory
+target/
+
+# Ignore Gradle build directory and cache files
+.gradle/
+build/
+
+# Ignore IDE-specific files
+*.iml
+.idea/
+*.log
+*.swp
+
+# Ignore JAR, WAR, and other compiled output files
+*.jar
+*.war
+*.ear
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.~*
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
